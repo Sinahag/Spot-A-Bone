@@ -1,4 +1,4 @@
-NEED TO RUN USING PYTHON3 ON DEBIAN#!/bin/sh
+NEED TO RUN USING PYTHON3 ON DEBIAN
 
 >> you can run the export_client.sh to initialize the environmental variables
 >> need to specify your SPOTIPY_REDIRECT_URI as follows:
