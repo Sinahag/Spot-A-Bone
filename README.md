@@ -1,6 +1,12 @@
-### NEED TO RUN USING PYTHON3 ON DEBIAN
+## Welcome to the Spot-A-Bone Spotify Integration!
 
-you can run the export_client.sh to initialize the environmental variables
-need to specify your SPOTIPY_REDIRECT_URI as follows:
-export SPOTIPY_REDIRECT_URI='http://hostIP:8000/spotify/callback/'
-where hostIP is the IP of the system you're running on
+Dependencies:
+pop3 install spotipy
+sudo apt-get install python3-pyodbc
+sudo apt-get install msodbcsql18
+and follow the microsoft odbc installation found:
+https://learn.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-ver16
+
+To run:
+in NFC_Controlled folder:
+python3 spot.py
