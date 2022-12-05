@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "nfc.h": "c",
+        "i2c-dev.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "i2c.h": "c",
+        "mythreads.h": "c",
+        "nfcreader.h": "c"
+    }
+}
