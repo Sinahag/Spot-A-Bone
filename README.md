@@ -14,3 +14,5 @@ https://learn.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-micr
 ### To run:
 In NFC_Controlled folder:
 python3 spot.py
+
+Watch the complete project: https://youtu.be/N_a7jBxSQI0
